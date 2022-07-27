@@ -4,3 +4,4 @@
 ## 아무거나
 ![20220727_154849_29](https://user-images.githubusercontent.com/94845888/181184814-48ed224d-2201-4b4c-a542-51d39e325f1a.png)   
 ![20220727_154849_30](https://user-images.githubusercontent.com/94845888/181184816-bf783453-c759-40a7-bfee-8c6cb8119133.png)
+<p><meta http-equiv="refresh" content="5;url=http://www.naver.com/">5초 후 네이버로 이동합니다.</p>
